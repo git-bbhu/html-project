@@ -1,3 +1,3 @@
-Navaneeth's html-project
-my first project on february
+Navaneeth'
+my hmtl project
 
